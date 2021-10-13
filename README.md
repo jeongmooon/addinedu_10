@@ -10,6 +10,15 @@ https://github.com/edu-ministori/addinedu_10
 
 https://codesandbox.io/s/html-css-hc9rd?file=/README.md
 
+## Mark Down 문서
+
+```
+- 제목 표시 기호 : # ~ ######
+- 목록 : -
+- 인용문, 중요내용 표시 : >
+- 코드 블럭 : ` (backtick)
+```
+
 ## 클라이언트 서버 모델
 
 - 사용자가 사용하는 디바이스(클라이언트) 회사의 서버 컴퓨터가 일대일로 연결되어 있다는 가상의 구성 -클라이언트와 서버간의 통신 : Request(요청) / Response(응답) 세트로 구성된 통신
